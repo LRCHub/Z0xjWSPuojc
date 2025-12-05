@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "紅",
+  "base_artist": "Little Glee Monster",
+  "createdAt": "2025-12-05T06:25:48.837206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Shounanno Kaze",
+      "has_synced": false,
+      "path": "select/01_紅_Shounanno_Kaze.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Shonan No Kaze",
+      "has_synced": false,
+      "path": "select/02_紅_Shonan_No_Kaze.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "X JAPAN (X)",
+      "has_synced": true,
+      "path": "select/03_紅_X_JAPAN_(X).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "紅 (シングル・ロングヴァージョン)",
+      "artist": "X JAPAN (X)",
+      "has_synced": true,
+      "path": "select/04_紅_(シングル・ロングヴァージョン)_X_JAPAN_(X).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "紅 (シングル・ロングヴァージョン)  (Remaster)",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/05_紅_(シングル・ロングヴァージョン)_(Remaster)_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/06_紅_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "告五人",
+      "has_synced": true,
+      "path": "select/07_紅_告五人.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Karen Mok",
+      "has_synced": true,
+      "path": "select/08_紅_Karen_Mok.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Mok, Karen",
+      "has_synced": true,
+      "path": "select/09_紅_Mok,_Karen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "紅 (シングル・ロングヴァージョン)",
+      "artist": "X-Japan",
+      "has_synced": true,
+      "path": "select/10_紅_(シングル・ロングヴァージョン)_X-Japan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "紅 (シングル・ロングヴァージョン)",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/11_紅_(シングル・ロングヴァージョン)_X_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "紅 (Kurenai - X Japan)",
+      "artist": "Esprit D'Air",
+      "has_synced": false,
+      "path": "select/12_紅_(Kurenai_-_X_Japan)_Esprit_D'Air.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "紅-THE LAST LIVE-",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/13_紅-THE_LAST_LIVE-_X_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "紅-THE LAST LIVE-",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/14_紅-THE_LAST_LIVE-_X_JAPAN.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "張敬軒",
+      "has_synced": false,
+      "path": "select/15_紅_張敬軒.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Leslie Cheung",
+      "has_synced": true,
+      "path": "select/16_紅_Leslie_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "紅",
+      "artist": "Cheung, Leslie",
+      "has_synced": true,
+      "path": "select/17_紅_Cheung,_Leslie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紅",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_01_紅_Little_Glee_Monster.txt"
+    }
+  ]
+}
